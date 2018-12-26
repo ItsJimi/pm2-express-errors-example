@@ -1,0 +1,14 @@
+{
+  "name": "pm2-express-errors-example",
+  "version": "1.0.0",
+  "description": "How to get express routes errors with pm2",
+  "main": "app.js",
+  "repository": "git@github.com:ItsJimi/pm2-express-errors-example.git",
+  "author": "Jimi M",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@pm2/io": "^2.4.7",
+    "express": "^4.16.4"
+  }
+}
