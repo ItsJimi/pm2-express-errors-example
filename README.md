@@ -1,2 +1,2 @@
 # pm2-express-errors-example
-How to get errors from express routes with pm2
+How to get express routes errors with pm2
